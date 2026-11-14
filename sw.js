@@ -1,4 +1,4 @@
-const CACHE_NAME = 'latoxa-cache-v1'; // Cambia la versión (ej. v2, v3) cada vez que actualices juegos
+const CACHE_NAME = 'latoxa-cache-v2'; // Cambia la versión (ej. v2, v3) cada vez que actualices juegos
 
 // Instalar el Service Worker y guardar en caché los archivos base
 self.addEventListener('install', event => {
